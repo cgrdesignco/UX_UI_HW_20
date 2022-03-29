@@ -1,0 +1,13 @@
+h1 {
+    color: #074b8c;
+}
+#nav {
+    background-color: #074b8c;
+}
+li {
+    color: white;
+}
+.jumbotron {
+    background-image: url(/images/JumboDog.jpg);
+    background-size: cover;
+}
